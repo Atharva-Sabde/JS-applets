@@ -1,5 +1,5 @@
 # JS-applets
-[Visit Projects Site ](https://github.com/Atharva-Sabde/JS-applets/blob/689c16a52e6afc37bed3677e661f76c46d72a384/index.html)
+[Visit Projects Site ](index.html)
 
 <hr>
 
