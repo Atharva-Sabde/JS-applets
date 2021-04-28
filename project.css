@@ -1,0 +1,10 @@
+body {
+  background-color: #cf8300;
+  background-image: url("https://www.transparenttextures.com/patterns/green-gobbler.png");
+}
+
+ul {
+  margin: auto;
+  /* text-align: center; */
+  font-size: x-large;
+}
