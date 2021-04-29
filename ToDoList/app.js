@@ -7,7 +7,6 @@ var task = 1;
 addToButton.addEventListener('click', function(){
     if(inputField.value == ""){
         // inputField.style.backgroundColor = rgb(180, 235, 52);
-        
         alert("Please add a task first");
     }
     else{
@@ -24,9 +23,15 @@ addToButton.addEventListener('click', function(){
             paragraph.style.color = "red"
         })
     
-        paragraph.addEventListener('dblclick' , function (){
+        paragraph.addEventListener('dblclick' , funaw (){
             toDoContainer.removeChild(paragraph);
         })
     }
    
 })
+
+
+
+
+
+

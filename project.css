@@ -1,10 +1,46 @@
 body {
-  background-color: #cf8300;
+  background-color: #551a48;
   background-image: url("https://www.transparenttextures.com/patterns/green-gobbler.png");
 }
+h1{
+  color: antiquewhite;
+  text-align: center;
+}
 
-ul {
-  margin: auto;
+ul{
+  /* margin: auto; */
   /* text-align: center; */
-  font-size: x-large;
+  /* font-size: x-large; */
+  list-style:none;
+}
+a{
+  text-decoration: none;
+}
+
+li{
+  border: 2px solid green;
+  border-radius: 20px;
+  margin : auto;
+
+  
+  padding: 10px;
+  font-size:  30px;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+  height: 50px;
+  background-color: beige;
+  /* box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3) ; */
+}
+
+li:hover{
+  background-color: aqua;
+
+}
+
+li a {
+  display: flex;
+  justify-content: center;
+  color:rgb(0, 0, 0);
+  width:200px;
 }
